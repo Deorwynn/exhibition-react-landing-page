@@ -15,7 +15,7 @@ const ShowInfo = () => {
                         <div className="vn_item">
                             <div className="vn_outer">
                                 <div className="vn_inner">
-                                    <div className="vn_icon_square bck_red"></div>
+                                    <div className="vn_icon_square bck_green"></div>
                                     <div
                                         className="vn_icon"
                                         style={{
