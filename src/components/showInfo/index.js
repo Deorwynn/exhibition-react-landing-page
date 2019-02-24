@@ -26,7 +26,7 @@ const ShowInfo = () => {
                                         Event Date & Time
                                     </div>
                                     <div className="vn_desc">
-                                        16 November 2018 @09:00 am
+                                        16 Jun 2019 @09:00 am
                                     </div>
                                 </div>
                             </div>
